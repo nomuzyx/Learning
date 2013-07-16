@@ -1,0 +1,5 @@
+1. GITHUB + EMAIL + GIST --------1 DAY
+2. HTML + CSS -------------------1 WEEK
+3. BOOTSTRAP + BASIC JAVASCRIPT--2ND WEEK
+4. CORE PHP + MYSQL (CRUD)-------3RD WEEK
+5. CODEIGNITER-------------------4TH WEEK
